@@ -1,0 +1,14 @@
+{
+    "name": "typescript-project",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "dev": "tsc && node ."
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+      "typescript": "5.4.4"
+    }
+  }
+  
